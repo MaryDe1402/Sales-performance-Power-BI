@@ -1,5 +1,7 @@
 # Sales-performance-Power-BI
 The report that will help you understand the organization's current challenges and possible directions for improving the profitability of a large goods distributor's business.
+<img width="1019" height="592" alt="image" src="https://github.com/user-attachments/assets/609af719-0bba-4c70-aa6c-8be6c8d6a8bc" />
+
 
 # Financial overview page.
 
